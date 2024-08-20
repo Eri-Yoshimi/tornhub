@@ -1,0 +1,8 @@
+{
+    "User": ["ammo","attacks","attacksfull","bars","basic","battlestats","bazaar","cooldowns","crimes","criminalrecord","discord","display","education","equipment","events","gym","hof","honors","icons","inventory","jobpoints","log","medals","merits","messages","missions","money","networth","newevents","newmessages","notifications","offset","perks","personalstats","profile","properties","refills","reports","revives","revivesfull","skills","stocks","timestamp","travel","weaponexp","workstats"],
+    "Property": ["offset","property","timestamp"],
+    "Faction": ["applications","armor","armorynews","attacknews","attacks","attacksfull","basic","boosters","caches","cesium","chain","chainreport","chains","checkPermissions","contributors","crimeexp","crimenews","crimes","currency","donations","drugs","fundsnews","mainnews","medical","membershipnews","offset","positions","rankedwars","reports","revives","revivesfull","stats","temporary","territory","territorynews","timestamp","upgrades","weapons"],
+    "Company": ["applications","companies","detailed","employees","news","offset","profile","stock","timestamp"],
+    "Market": ["bazaar","itemmarket","offset","pointsmarket","timestamp"],
+    "Torn": ["bank","cards","chainreport","cityshops","companies","competition","dirtybombs","education","factiontree","getCards","getDirtyBombs","gyms","honors","itemdetails","items","itemstats","logcategories","logtypes","medals","offset","organisedcrimes","pawnshop","pokertables","properties","rackets","raidreport","raids","rankedwarreport","rankedwars","rockpaperscissors","searchforcash","shoplifting","stats","stocks","territory","territorynames","territorywarreport","territorywars","timestamp"]
+}

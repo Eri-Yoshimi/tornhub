@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TORN HUB</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>TORN HUB</h1>
+        <input type="text" id="apiKey" placeholder="Enter your API Key">
+        <input type="text" id="id" placeholder="Enter your ID if necessary">
+        <br>
+        <select id="categorySelect">
+            <option value="">Select Category</option>
+        </select>
+        <select id="selectionSelect">
+            <option value="">Select Selection</option>
+        </select>
+        <br>
+        <button id="fetchButton" onclick="fetchData()">Fetch Data</button>
+        <pre id="output"></pre>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
